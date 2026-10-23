@@ -1,0 +1,22 @@
+{
+  "train": {
+    "images": 878,
+    "objects_per_class": {
+      "cat": 322,
+      "car": 914,
+      "motorcycle": 695,
+      "person": 1982,
+      "dog": 320
+    }
+  },
+  "val": {
+    "images": 204,
+    "objects_per_class": {
+      "cat": 66,
+      "motorcycle": 154,
+      "person": 448,
+      "car": 196,
+      "dog": 71
+    }
+  }
+}

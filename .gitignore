@@ -1,0 +1,9 @@
+.venv/
+raw/
+datasets/
+runs/
+*.log
+yolo11n*.pt
+!weights/*.pt
+__pycache__/
+.claude/
